@@ -43,10 +43,26 @@ nltk.download('wordnet')
 ```
 
 ## How to run
-* Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/master)
+* Jupyter Notebook 
 
 You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/blob/master/Chatbot.ipynb) which also includes step by step instructions.
 * Through Terminal
 ```
 python chatbot.py
 ```
+## About me
+
+**Piyush Pathak**
+
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
+
+[**GITHUB**](https://github.com/piyushpathak03)
+
+[**BLOG**](https://medium.com/@piyushpathak03)
+
+
+# 📫 Follw me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+
+<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
